@@ -1,4 +1,4 @@
-# Mini_DHCP_Server
+# Mini DHCP Server
 模拟一个简单的DHCP协议：服务器端
 
 注：代码里面的IP地址管理做得很粗糙，我们人为地设立了一个192.168.5.0的
